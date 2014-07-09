@@ -114,7 +114,7 @@ public class HelloWorld {
 	    System.out.print("\n"+n2);
 	    
 	    int n3 = test1.length();
-	    System.out.print("\n"+n3);
+	
 	    
 	    String str1= test1.replace("l","a");
 	    System.out.print("\n"+str1);
