@@ -125,7 +125,7 @@ public class HelloWorld {
 	    Rose.Price();
 	    
 	    int result = a.jieCheng(4);
-	    System.out.print("\n"+result);
+	    
 	    
 	    int result1 = a.sum(5);
 	    System.out.print("\n"+result1);
